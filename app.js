@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello Sacha! Testing autodeploy...
+      Hello Mushkie! Shall we have lunch?
     </section>
   </body>
 </html>
