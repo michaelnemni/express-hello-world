@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello JackleCunt
+      Hello Jackle
     </section>
   </body>
 </html>
